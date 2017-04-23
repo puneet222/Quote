@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "underscore": "1.5.2",
+    "mongodb": "2.0.35",
+    "mongoose": "4.0.3",
+    "express": "4.12.3",
+    "body-parser": "1.16.0"
+  }
+}
